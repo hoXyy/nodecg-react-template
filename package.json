@@ -26,7 +26,7 @@
     "@mui/material": "^7.3.2",
     "@nodecg/react-hooks": "^1.0.3",
     "lodash": "^4.17.21",
-    "nodecg": "^2.5.3",
+    "nodecg": "^2.6.1",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "styled-components": "6.1.19"
